@@ -1,0 +1,7 @@
+.slidebar-menu .active {
+    background: linear-gradient(to right, rgb(141, 130, 9), rgb(131, 12, 86))
+}
+
+.slide-section {
+    width: 180px;
+}

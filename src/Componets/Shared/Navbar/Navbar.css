@@ -1,0 +1,8 @@
+.header-menu ul li .active {
+    background: linear-gradient(to right, rgb(232, 74, 74), rgb(232, 156, 14));
+    border-radius: 10px;
+}
+
+.header-menu ul li {
+    margin-right: 20px;
+}
